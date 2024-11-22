@@ -1,0 +1,40 @@
+.title1{
+    color: blue;
+    border-style: ridge;
+    border-radius: 30px;
+    text-align-last: center;
+    border-color: silver;
+    font-style: initial;
+}
+.about{
+    color:red;
+    border-style: ridge;
+    border-radius: 30px;
+    text-align-last: center;
+    border-color: silver;
+    font-style: oblique;
+}
+
+.index{
+    background-color: lightblue;
+  }
+
+  .about2{
+    background-color: beige;
+  }
+
+  .pets123{
+    color: blue;
+  }
+
+  .container{
+    max-width: 3000px;
+    padding: 15px;
+    border-style: solid;
+    border-color: black;
+    background-color:black
+  }
+
+  .contacts{
+    background-color: silver;
+  }
